@@ -1,6 +1,6 @@
 # <center> Horiseon-Homepage
 
-![application image](C:\Users\Michael\Desktop\Homework\assets\images\Horiseon-Webpage.png)
+![](images/Horiseon-Webpage.png)
 
 This project is to refactor the HTML and CSS code to make it more presentable. 
 
