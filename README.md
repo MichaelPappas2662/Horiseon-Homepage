@@ -1,6 +1,6 @@
 # <center> Horiseon-Homepage
 
-![](images/Horiseon-Webpage.png)
+![](assets/images/Horiseon-Webpage.png)
 
 This project is to refactor the HTML and CSS code to make it more presentable. 
 
